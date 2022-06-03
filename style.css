@@ -2,6 +2,18 @@
 
 nav li li li {display: none !important; }
 
+@media (max-width: 684px) {
+    body {
+        font-size: 1.53rem;
+    }
+}
+
+@media (max-width: 382px) {
+    body {
+        font-size: 1.35rem;
+    }
+}
+
 nav {
 	display: inline-block;
     	text-align:center;
