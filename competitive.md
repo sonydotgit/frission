@@ -25,6 +25,8 @@ classoption: "12pt"
 
 # Registration
 
+**Registration Fee:** 30/-
+
 [Click here](https://forms.google.com) to register
 for this event.
 
