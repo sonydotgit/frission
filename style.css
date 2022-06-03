@@ -14,6 +14,11 @@ nav li li li {display: none !important; }
     }
 }
 
+#ifrisson {
+    width: 100%;
+    height: auto;
+}
+
 nav {
 	display: inline-block;
     	text-align:center;
