@@ -1,5 +1,5 @@
 ---
-title: Pixel Art
+title: Graphic Designing
 linkcolor: blue
 pdf-engine: xelatex
 header-includes:
@@ -26,7 +26,8 @@ selected as winners!
  Laptops/tablets
 
 **Software Requirements:**
- PixilArt
+ [Pixilart](https://pixilart.com/) should be
+preinstalled.
 
 **Subject:**
  Any character or props related to

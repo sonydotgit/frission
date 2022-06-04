@@ -1,5 +1,5 @@
 ---
-title: BotFather
+title: Bot Battle
 linkcolor: blue
 pdf-engine: xelatex
 header-includes:
@@ -33,7 +33,7 @@ to complete the bot.
 
 # Registration
 
-Registration Fee is 30/-
+**Registration Fee:** 30/-
 
 [click here](forms.google.com) to register for this event.
 
