@@ -9,12 +9,13 @@ classoption: "12pt"
 
 # Rules
 
-+ A team can have a maximum of *2 members*.
 + Participants are required to build a bot 
 (Telegram/Twitter), which should perform specific 
 tasks to make user's work easy.
 + A normal chat bot is not accepted.
 + Participants should bring their PC.
+
+**Team Size:** 2
 
 ## Round 1
 
@@ -33,12 +34,18 @@ to complete the bot.
 
 # Registration
 
-**Registration Fee:** 30/-
+**Registration Fee:** 50/-
 
 [click here](forms.google.com) to register for this event.
 
+## GPay
+
+Prathik M R: 8217694431
+
 # Contact
 
-Name: 1234567890
+## Queries
 
-Name: 1234567890
+Tanushree: 6366297718
+
+Sohan: 9035594408

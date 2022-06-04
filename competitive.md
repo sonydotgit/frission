@@ -9,7 +9,9 @@ classoption: "12pt"
 
 # Rules
 
-+ A team can have a maximum of 2 members.
+**Team Size:** 2
+
+**Language:** C
 
 ## Round 1: MCQ
 
@@ -25,11 +27,17 @@ classoption: "12pt"
 
 # Registration
 
-**Registration Fee:** 30/-
+**Registration Fee:** 50/-
 
 [Click here](https://forms.google.com) to register
 for this event.
 
+## GPay
+
+Harshavardhan: 7618753240
+
 # Contact
 
-Name: 1234567890
+## Queries
+
+Sohan: 9035594408

@@ -9,8 +9,9 @@ classoption: "12pt"
 
 # Rules
 
-+ Maximum group of 4.
-+ Time: 1hr
+**Team Size:** 4
+
+**Time:** 1hr
 
 ## PPT Format
 
@@ -25,13 +26,17 @@ to find solution to the problem
 
 # Registration
 
-**Registration Fee:** 30/-
+**Registration Fee:** 50/-
 
 [Click here](https://form.google.com) to 
 regester.
 
+## GPay
+
+Adarsh T N: 8088308684
+
 # Contact
 
-Name: 1234567890
+## Queries
 
-Name: 1234567890
+Sinchana Ghatge: 9353600467

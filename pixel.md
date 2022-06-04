@@ -41,12 +41,18 @@ preinstalled.
 
 # Registration
 
-**Registration Fee:** 30/-
+**Registration Fee:** 60/-
 
 [Click here](https://form.google.com) to
 register.
 
+## GPay
+
+Manasvi: 8088813900
+
 # Contact
+
+## Queries
 
 Ananth Shayan: +91 93985 90092
 
