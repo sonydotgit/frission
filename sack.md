@@ -18,7 +18,7 @@ in the place.
 
 **Registration Fee:** 100/-
 
-[Click here](https://form.google.com) to 
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSfZmYx_0uAD-XSIfAigV8wtXgBrzLOLHreNyrak1V8dInMXwA/viewform?usp=sf_link) to
 register.
 
 ## GPay

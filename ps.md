@@ -13,22 +13,19 @@ classoption: "12pt"
 
 **Time:** 1hr
 
-## PPT Format
++ Scenario based questions will be
+given, participants should provide
+pseudo code for those problems.
 
-+ **Slide 1:** Team Details - 
-Full Name, Course, Branch, Semester, Email
-+ **Slide 2:** Idea Title - 
-Not more than 20 words
-+ **Slide 3:** Problem statement
-+ **Slide 4:** Your ideas to solve the problem
-+ **Slide 5:** Any study or research done
-to find solution to the problem
++ Pseudo code will be evaluated based on:
+  - Time Complexity of the pseudo code.
+  - Completion time.
 
 # Registration
 
 **Registration Fee:** 50/-
 
-[Click here](https://docs.google.com/forms/d/1FsABrzSVEfyHZ0ZX71VOPD_qsew4X2eKmLqhT2TztcE/prefill) to 
+[Click here](https://forms.gle/X2AXYH6HUZ9Z117p9) to
 regester.
 
 ## GPay
