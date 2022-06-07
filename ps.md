@@ -9,7 +9,7 @@ classoption: "12pt"
 
 # Rules
 
-**Team Size:** 4
+**Team Size:** 2
 
 **Time:** 1hr
 
