@@ -43,7 +43,7 @@ preinstalled.
 
 **Registration Fee:** 60/-
 
-[Click here](https://form.google.com) to
+[Click here](https://forms.gle/HvM8fkCkhk9wFNjq5) to
 register.
 
 ## GPay

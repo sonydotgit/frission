@@ -28,7 +28,7 @@ to find solution to the problem
 
 **Registration Fee:** 50/-
 
-[Click here](https://form.google.com) to 
+[Click here](https://docs.google.com/forms/d/1FsABrzSVEfyHZ0ZX71VOPD_qsew4X2eKmLqhT2TztcE/prefill) to 
 regester.
 
 ## GPay

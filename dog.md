@@ -32,7 +32,7 @@ the object.
 
 **Registration Fee:** 80/-
 
-[Click here](https://form.google.com) to
+[Click here](https://forms.gle/76huqpKVf1UUZmF29) to
 register.
 
 ## GPay

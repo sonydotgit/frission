@@ -29,7 +29,7 @@ classoption: "12pt"
 
 **Registration Fee:** 50/-
 
-[Click here](https://forms.google.com) to register
+[Click here](https://forms.gle/pTQuBAjg9bE2SGv39) to register
 for this event.
 
 ## GPay

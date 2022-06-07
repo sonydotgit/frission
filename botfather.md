@@ -36,7 +36,7 @@ to complete the bot.
 
 **Registration Fee:** 50/-
 
-[click here](forms.google.com) to register for this event.
+[click here](https://docs.google.com/forms/d/1Tvl_H0wyF1gyoJTasoBa4IK9Eft-YXL8dRPvImqr6ws/edit?usp=drivesdk) to register for this event.
 
 ## GPay
 

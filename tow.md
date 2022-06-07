@@ -28,7 +28,7 @@ pulled past the center.
 
 **Registration Fee:** 100/-
 
-[Click here](https://form.google.com) to
+[Click here](https://forms.gle/1xF8VWoYtcgFTq9u6) to
 register.
 
 ## GPay
