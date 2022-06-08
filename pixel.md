@@ -12,7 +12,7 @@ classoption: "12pt"
 + Each participant of a team should
 have their own laptop or tablet.
 + Each participant should select a
-character or a prop related to 
+character or a prop related to
 [MARVEL](https://www.marvel.com/) for
 pixel art.
 + Work on their selected topic for
@@ -48,7 +48,7 @@ register.
 
 ## GPay
 
-Manasvi: 8088813900
+Kunal: 9900511265
 
 # Contact
 
@@ -57,3 +57,5 @@ Manasvi: 8088813900
 Ananth Shayan: +91 93985 90092
 
 Neetu: +91 95388 17158
+
+Manasvi: +91 80888 13900
