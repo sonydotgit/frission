@@ -11,14 +11,23 @@ classoption: "12pt"
 
 **Team Size:** 2
 
-**Time:** 1hr
+## Round 1 [Debugging Round]
 
++ Time: 30mins
++ Five Questions
++ Should debug the given code
+to get the desired output.
++ PCs will be provided
+
+## Round 2
+
++ Time: 1hr
 + Scenario based questions will be
 given, participants should provide
 pseudo code for those problems.
-
 + Pseudo code will be evaluated based on:
-  - Time Complexity of the pseudo code.
+  - Time Complexity and space complexity
+of the pseudo code.
   - Completion time.
 
 # Registration
