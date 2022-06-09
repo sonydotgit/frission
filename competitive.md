@@ -10,8 +10,7 @@ classoption: "12pt"
 # Rules
 
 **Team Size:** 2
-
-**Language:** C
+**Starts at:** 9AM
 
 **Hackerrank account is mandatory**
 
@@ -26,6 +25,7 @@ classoption: "12pt"
 
 - Duration: 1hr
 - 5 Questions
+- can use any language of your choice.
 
 ## Round 3: Coding [In case of draw in second round]
 

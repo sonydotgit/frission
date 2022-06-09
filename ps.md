@@ -10,6 +10,7 @@ classoption: "12pt"
 # Rules
 
 **Team Size:** 2
+**Starts at:** 10:30AM
 
 ## Round 1 [Debugging Round]
 
